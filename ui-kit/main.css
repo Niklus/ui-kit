@@ -1,5 +1,5 @@
 /*
-  Reset
+  reset
 */
 @import "_reset.css";
 
@@ -7,3 +7,8 @@
   typography
 */
 @import "_typography.css";
+
+/*
+  components
+*/
+@import "_components.css";
