@@ -1,0 +1,12 @@
+/*
+  Custom Styles
+*/
+
+body {
+  margin: 0 auto;
+  max-width: 750px;
+}
+
+section {
+  margin-top: 30px;
+}
