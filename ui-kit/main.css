@@ -1,14 +1,14 @@
 /*
   reset
 */
-@import "_reset.css";
+@import "reset.css";
 
 /*
   typography
 */
-@import "_typography.css";
+@import "typography.css";
 
 /*
   components
 */
-@import "_components.css";
+@import "components.css";
