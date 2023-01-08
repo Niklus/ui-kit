@@ -1,0 +1,9 @@
+/*
+* Layout
+*/
+
+.container {
+  padding-inline: 20px;
+  max-width: 960px;
+  margin-inline: auto;
+}
