@@ -12,3 +12,35 @@
 .avatar--border {
   border: 2px solid black;
 }
+
+/*
+  Toast
+*/
+.toast {
+  background-color: white;
+  border-radius: 4px;
+  border: 1px solid #cccdce;
+  box-shadow: 2px 3px 6px rgba(0 0 0 / 15%);
+}
+
+.toast-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 8px 12px;
+  color: #6c757d;
+  border-bottom: 1px solid rgba(0 0 0 / 5%);
+}
+
+.toast-header-title {
+  font-weight: bold;
+}
+
+.toast-header-action {
+  font-size: 12px;
+}
+
+.toast-body {
+  padding: 12px;
+  font-size: 14px;
+}
